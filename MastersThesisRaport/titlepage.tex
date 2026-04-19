@@ -1,0 +1,86 @@
+\documentclass[12pt, a4paper]{report}
+
+% --- Packages ---
+\usepackage[utf8]{inputenc} % For Polish characters
+\usepackage[T1]{fontenc}    % Correct font encoding
+\usepackage{graphicx}       % For including images
+\usepackage{geometry}       % For page margins
+\usepackage{helvet}         % Loads Helvetica font (looks like Arial)
+\usepackage{fontspec}      % For \newfontfamily and custom fonts
+
+% --- Configuration ---
+% We define the \arial command to switch to Helvetica
+\newfontfamily\arial{arial.ttf}
+
+% Set margins if needed (standard A4 margins used here)
+\geometry{
+ a4paper,
+ left=25mm,
+ right=25mm,
+ top=25mm,
+ bottom=25mm,
+}
+
+\begin{document}
+
+% No page number on the title page
+\pagestyle{empty}
+
+\begin{center}
+    % WUT LOGO
+    % Make sure 'wut' exists in your img folder
+    \includegraphics[width=\textwidth]{img/wut} 
+    
+    \vspace{40pt}
+
+    % MASTER LOGO
+    % Make sure 'master' exists in your img folder
+    \includegraphics[scale=1.]{img/master} 
+
+    { \arial
+        % FIELD AND SPECIALIZATION
+        % Note: If you don't have a distinct specialization, 
+        % you can delete the "and specialisation" line.
+        in the field of study Data Science \\
+        % and specialisation Data Science 
+        
+        \vspace{30pt}
+        
+        % TITLE
+        {\large \textbf{Audio-Based Fall Detection Using Machine Learning Models}}
+
+        \vspace{40pt}
+
+        % AUTHOR
+        {\huge Michał Binda}
+
+        \vspace{5pt}
+
+        % STUDENT ID
+        320618
+
+        \vspace{40pt}
+
+        % SUPERVISOR
+        thesis supervisor \\
+        {dr inż. Janusz Rafałko}
+
+        \vfill
+        
+        % LOCATION AND YEAR
+        WARSAW 2026 \\
+    }
+\end{center}
+
+% --- Optional: Signature Page (Uncomment below if needed) ---
+%\newpage
+%\null
+%\vfill
+%\begin{center}
+%\begin{tabular}[t]{ccc}
+%............................................. & \hspace*{80pt} & .............................................\\
+%supervisor's signature & \hspace*{80pt} & author's signature
+%\end{tabular}
+%\end{center}
+
+\end{document}

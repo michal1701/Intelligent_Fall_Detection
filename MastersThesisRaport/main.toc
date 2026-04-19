@@ -1,0 +1,34 @@
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{polish}
+\xpg@aux {}{english}
+\contentsline {section}{\numberline {1}Introduction}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Motivation}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Thesis Content Overview}{5}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Literature Review}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Introduction and Clinical Context}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Fall Detection Strategies}{6}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Wearable Sensors: Accelerometry and Gyroscopy}{7}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Vision-Based Systems: RGB Cameras and Depth Sensors}{9}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Ambient and Acoustic Sensing: Advantages in Privacy and Compliance}{10}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Comparative Analysis of Detection Modalities}{12}{subsubsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.3}Audio Signal Processing for Event Detection}{14}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Signal Characteristics of a Fall}{14}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Preprocessing Techniques}{14}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Feature Extraction: Time-Domain Features}{16}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Feature Extraction: Frequency-Domain Features}{17}{subsubsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.5}Deep Dive: Time-Frequency Representations}{18}{subsubsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.4}Machine Learning Model Overview}{19}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Classical Machine Learning}{20}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Deep Learning Architectures}{20}{subsubsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.5}Datasets and Evaluation Methodologies}{21}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Augmented vs Simulated Data}{22}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Evaluation Methodologies}{22}{subsubsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.6}Summary and Research Gap}{23}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}Alignment Strategy for Heterogeneous Datasets}{24}{subsubsection.2.6.1}%
+\contentsline {section}{List of Symbols and Abbreviations}{24}{equation.14}%
+\contentsline {section}{List of Figures}{25}{equation.14}%
+\contentsline {section}{List of Tables}{25}{equation.14}%
+\contentsline {section}{List of Appendices}{25}{equation.14}%
+\contentsline {section}{\numberline {A}Python Source Code Structure}{25}{appendix.A}%
+\contentsline {section}{\numberline {B}Additional Experiment Results}{25}{appendix.B}%
